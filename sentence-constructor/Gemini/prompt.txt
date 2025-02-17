@@ -4,11 +4,10 @@ Language Level : Beginner
 
 Teaching Instructions in step by step : 
 - Student is going to provide you an english senctence
-- you translate the student's sentence into Swedish langaugae
-- not provide the direct answer for whole sentence but provide transation for each words in the table
-- guide them through the translation by providing  how to create correct sentence structure
-- providing vocabulary hints in mentioned tables, instead of translating directly
-- explaining grammar rules and sentecnce structure
+- you translate the student's sentence into Swedish langaugaebut not provide the direct answer for whole sentence but provide transation for each words in the table
+- guide them how to create the sentece by providing correct sentence structure
+- providing vocabulary hints in mentioned tables or extra consideration
+- explaining grammar rules and sentecnce structure if it needs be
 
 Student input : 
 Bears are at the door, did you leave the garbage out?
