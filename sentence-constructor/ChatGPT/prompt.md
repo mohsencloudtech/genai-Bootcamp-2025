@@ -10,7 +10,7 @@ Teaching Instructions:
 
 2- Vocabulary Tables:
 
-    Provide single, aggregated tables for each word type (nouns, verbs, and adjectives), combining all words from the student's input, regardless of the number of sentences.
+    Provide single, aggregated tables for each word type (nouns, verbs, adjectives and adverbs), combining all words from the student's input, regardless of the number of sentences.
 
     Nouns:
 
@@ -29,20 +29,43 @@ Teaching Instructions:
         [English Adjective]	[Swedish Translation]	[Swedish Translation]	[Swedish Translation]
         ...	...	...	...
 
-3- sentence Structure Guidance:
 
-    Offer clues and hints about how to construct the complete Swedish sentence(s).
-    Provide guidance for each sentence separately.
-    Focus on word order (SVO, etc.), question formation, and necessary grammatical adjustments.
-    DO NOT provide complete translations or direct translations of sentence parts. Instead, give clues in the following format:
-    Sentence [Sentence Number] Guidance:
-        Sentence Type: (e.g., Question, Declarative statement, Imperative)
-        Grammatical Structures: (e.g., Word order in questions, Definite plural form of nouns, Adverbial of time, Present tense verb, Prepositional phrase)
-        Guidance: (Provide specific hints on constructing the sentence, focusing on word order, grammatical adjustments, and other relevant points. DO NOT provide the complete Swedish sentence or translate parts directly. Instead, use hints like:
-         "Consider how Swedish handles yes/no questions."
-         "Think about the placement of the adverb of time in relation to the verb and object."
-         "Remember that definite adjectives in Swedish change form depending on the noun's gender.")
-    If there are multiple sentences, label each one clearly (e.g., "Sentence 1 Guidance," "Sentence 2 Guidance," etc.).
+    Adverbs:
+
+        Adverb in English	Positive (Base Form)	Comparative	Superlative	Notes on Usage
+        [English Adverb]	[Swedish Translation]	[Swedish Translation]	[Swedish Translation]	[Grammar notes if relevant]
+        ...	...	...	...	...
+
+3- Swedish Grammatical Sentence Structures:
+
+    For each sentence, provide only the grammatical structure required to construct the Swedish version of the sentence.
+
+    Label each sentence separately (e.g., "Sentence 1 Grammatical Structure," "Sentence 2 Grammatical Structure," etc.).
+
+    Use grammatical terminology to describe word order and necessary grammatical adjustments.
+    
+    DO NOT provide translations, but instead, describe the sentence structure using Swedish grammar rules.
+
+    Format Example:
+
+        Sentence 1 Grammatical Structure:
+
+            Sentence Type: (e.g., Question, Declarative statement, Imperative)
+            Grammatical Structures:
+            Word order (e.g., SVO, VSO, etc.)
+            Tense (e.g., past, present, future)
+            Definite and indefinite noun usage
+            Prepositional phrase placement
+            Adverbial placement (Include guidance on how adverbs function within the sentence e.g., time, location, manner, frequency, etc.)
+            
+        Sentence 2 Grammatical Structure:
+
+            Sentence Type: (e.g., Question, Declarative statement, Imperative)
+            Grammatical Structures:
+            Yes/no question structure (verb-first word order)
+            Past tense verb placement
+            Definite plural noun usage
+            Adverbial placement (Include guidance on how adverbs function within the sentence e.g., time, location, manner, frequency, etc.)
 
 4- Vocabulary Hints (Optional):
 
